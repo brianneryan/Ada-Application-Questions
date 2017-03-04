@@ -2,6 +2,11 @@
 Essay Questions
 
 #####1. 
+Programming incorporates so much of what I am passionate about. I was in a puzzle store, chatting with another customer about our mutual love of 3D puzzles, when he asked me why I don’t do what he does for a living--coding. He described it as it’s own very complex sort of puzzle, but unlike the “Bamboozler” puzzles we had been perusing in the store, there could be innumerable solutions.
+
+The idea that coding could be more fun than a Rubik’s cube struck me as a highly dubious claim, but prompted me to begin downloading coding Apps on my phone, and playing with them in my spare time. It didn’t take long before I realized the incredible capacity for creativity, not just in the finished product, but in the _process_ of programming itself. Programming could be an application for my creative skills, and simultaneously a challenge to my spatial reasoning capacity—_the dream_! I find this prospect very exciting, so I have since been playing with resources online, following tutorials, and trying to learn as much as possible. Admittedly, free-time exploration through these resources and those provided on Ada’s website is pretty much the extent of my exposure. 
+
+I am a quick and motivated learner, however, and believe that if admitted to the program, I could independently prepare myself to begin classes. Once a student in the program, I would be _intensely_ dedicated. My work ethic, I believe, would compensate for any deficits in prerequisite skills. 
 
 #####2.
 While I love my current job, I feel like could be putting my creative skills to better use.
@@ -9,9 +14,9 @@ In five years, I would hope that my career could serve society in influential wa
 and that the day-to-day work would be a perpetual cognitive challenge to me.
 In terms of serving society, it’s difficult to say specifically how this might look—
 I can envision many applications for programming that would serve causes that I care about. 
-To cite one possible idea, I would find it incredible to have the skills to couple my 
-artistic training with programming prowess, to generate powerfully artful and effective promotional materials and communication
-platforms for organizations such as Planned Parenthood or the Anti Defamation League.
+To cite one possible idea, I would find it incredible to have the skills to couple programming prowess with my 
+artistic training, to generate powerfully artful and effective promotional materials and communication
+platforms for organizations such as Planned Parenthood or the Anti-Defamation League.
 
 Some of my freelance and volunteer work has involved creating educational and promotional materials,
 but I have been limited by my skills.
